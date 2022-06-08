@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyAgent": {
+      "commandName": "Project",
+      "commandLineArgs": "-h localhost -p 10000 -n MA"
+    }
+  }
+}
